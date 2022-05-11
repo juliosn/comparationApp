@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComparationApp</string>
+    <string name="insertNumb">Digite os valores:</string>
+    <string name="btnComp">Testar</string>
+    <string name="edtNumber">edtNumber</string>
+    <string name="edtNumber2">edtNumber2</string>
+
+</resources>
